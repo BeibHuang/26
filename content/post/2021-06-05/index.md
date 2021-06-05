@@ -1,0 +1,24 @@
+---
+aliases:
+- migrate-from-jekyl
+author: Nili
+categories:
+- 随记
+date: "2021-06-05"
+description: 翻日记想到的
+  elements.
+image: pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
+series:
+- Themes Guide
+tags:
+title: 疏远的故事
+---
+
+我大一的时候读了一本应景的书，叫《故园风雨后》。里面的主人公也刚进大学校园。书里有一句话我印象很深，大意是你大二的时候会逐渐离开大一的朋友。果真如此，我的社交圈也换了。但是唯一没变的事就是找不到那种交心的感觉。
+
+然后我大三又读了《斯通纳》，里面说“大学是弱者的避难所”，本弱者表示非常认同。马上就大四了，失去避难所就会变成难民。
+
+这样一想，我还挺幸运。每个阶段能读到合适的书。
+
+
+

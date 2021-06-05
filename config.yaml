@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
-title: 鲇鱼募集中
+title: 冰糕快化了
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -26,7 +26,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2019
         customText:
 
     dateFormat:
@@ -34,8 +34,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🌸
-        subtitle: 👉小猴的家👈
+        emoji: 💗
+        subtitle: 👉想吃鲇鱼👈
         avatar:
             local: true
             src: img/1.png
@@ -112,10 +112,11 @@ params:
 menu:
     main:
         - identifier: home
-          name: Home
+          name: 主页
           url: /
           weight: -100
           pre: home
+    
 
 related:
     includeNewer: true

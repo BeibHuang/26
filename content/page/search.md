@@ -8,5 +8,5 @@ outputs:
 - html
 - json
 slug: search
-title: Search
+title: 搜索
 ---
