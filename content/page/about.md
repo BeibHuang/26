@@ -4,30 +4,26 @@ aliases:
 - about-hugo
 - contact
 date: "2019-02-28"
-description: Hugo, the world's fastest framework for building websites
+description: 夏天你最不想见到的人
 lastmod: "2020-10-09"
 license: CC BY-NC-ND
 menu:
   main:
     pre: user
     weight: -90
-title: 关于我
+title: 🐣关于我
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+GO也不会
 
-Hugo makes use of a variety of open source projects including:
+Python也不会
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+会画一点画
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+体积很大
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+正在努力求职中
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+![1.jpg](https://i.loli.net/2021/06/07/dXYshpLnjDB2KIS.jpg)![2.jpg](https://i.loli.net/2021/06/07/Xq7WP5aJStB6lbf.jpg)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+![4.jpg](https://i.loli.net/2021/06/07/1ORUisKDGQHtbnE.jpg)![3.jpg](https://i.loli.net/2021/06/07/bHuSmsQLlCYFAGh.jpg)

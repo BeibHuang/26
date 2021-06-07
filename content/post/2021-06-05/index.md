@@ -5,13 +5,12 @@ author: Nili
 categories:
 - 随记
 date: "2021-06-05"
-description: 翻日记想到的
-  elements.
+description: 每日EMO时间
 image: pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
 series:
 - Themes Guide
 tags:
-title: 疏远的故事
+title: 应景的书
 ---
 
 我大一的时候读了一本应景的书，叫《故园风雨后》。里面的主人公也刚进大学校园。书里有一句话我印象很深，大意是你大二的时候会逐渐离开大一的朋友。果真如此，我的社交圈也换了。但是唯一没变的事就是找不到那种交心的感觉。
