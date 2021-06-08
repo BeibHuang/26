@@ -5,7 +5,7 @@
 </div>
 
 <div class="page-photos">
-  {{ range (readDir "./statics/photos/cdn") }}
+  {{ range (readDir "./cdn") }}
   <figure>
     <img src="https://cdn.jsdelivr.net/gh/BeibHuang/cdn/{{.Name }}" alt="{{ .Name }}" />
     <figcaption>{{ .Name | replaceRE "(.*)[.].*" "$1"}}</figcaption>
