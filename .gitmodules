@@ -1,0 +1,3 @@
+[submodule "statics_photos_cdn"] 
+  path = statics_photos_cdn
+  url = git://github.com/BeibHuang/cdn//
