@@ -1,6 +1,6 @@
 ---
 description: This is a example category
-image: yellowpurple.jpg
+image: hu.jpg
 slug: test
 style:
   background: '#2a9d8f'
