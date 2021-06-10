@@ -3,9 +3,9 @@ author: Nili
 categories:
 - 随记
 date: "2021-06-10"
-description: 一个人性格古怪，是在受苦。
+description: 鬼怎么能怕鬼👻
 image: https://cdn.jsdelivr.net/gh/BeibHuang/cdn/egor-myznik-fZwDf1-AtAA-unsplash.jpg
-title: 第六天
+title: 孤独的熟练工
 ---
 
 今天我终于把拖了很久的简历写完了，也发出去了。感觉如释重负。但是想想比起投简历更大的问题难道不是能不能面试。也不知道我在轻松个什么。😅
