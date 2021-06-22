@@ -1,12 +1,10 @@
 ---
 author: Nili
 categories:
-- 学习
+- idea
 date: "2021-06-07"
 description: 阅读的必要性
 image: the-creative-exchange-d2zvqp3fpro-unsplash.jpg
-tags:
-- emoji
 title: 吃呕吐物的人
 ---
 

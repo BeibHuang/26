@@ -1,15 +1,10 @@
 ---
-aliases:
-- migrate-from-jekyl
 author: Nili
 categories:
-- 随记
+- idea
 date: "2021-06-05"
 description: 每日EMO时间
 image: rania-bdn-WoHwB9V9XMk-unsplash.jpg
-series:
-- Themes Guide
-tags:
 title: 应景的书
 ---
 
