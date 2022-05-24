@@ -12,7 +12,7 @@ title: Be a kid, slow to judge
 现在的生活也是一团糟，我以为就只要过了就可以。结果我自己的心理健康还是处于一个令人担忧的水平
 看到hply的广播，写的是关于情商的问题。
 {{< bilibili BV1P34y1E7a3 >}}
-{{< iframe "https://music.163.com/outchain/player?type=2&id=1853811386&auto=1" >}}
+{{< iframe "https://music.163.com/outchain/player?type=2&id=1853811386&auto=1&" >}}
 
 最近喜欢的歌。
 
