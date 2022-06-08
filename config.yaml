@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://caeac.xyz
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
-title: 冰糕快化了
+title: 打球的日子
 enableEmoji: true
 
 # Change it to your Disqus shortname before using
