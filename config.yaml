@@ -2,7 +2,7 @@ baseurl: https://caeac.xyz
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
-title: 打球的日子
+title: PrEzTel DAY!🎉
 enableEmoji: true
 
 # Change it to your Disqus shortname before using
@@ -35,11 +35,11 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🌠
+        emoji: 🥨
         subtitle: 
         avatar:
             local: true
-            src: img/1.png
+            src: img/66.jpg
 
     article:
         math: false
